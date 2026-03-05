@@ -1,1 +1,8 @@
-
+BEGIN:VCARD
+VERSION:3.0
+N:Lanaro;Giovana;;;
+FN:Giovana Lanaro
+ORG:Volvo
+TEL;TYPE=CELL:+46765949617
+EMAIL;TYPE=INTERNET:giovana.lanaro@hotmail.com
+END:VCARD
